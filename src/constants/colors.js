@@ -1,0 +1,31 @@
+export const colors = {
+  gold: '#c9a84c',
+  goldLight: '#e8c97a',
+  goldDark: '#8b6914',
+  crimson: '#8b1a1a',
+  crimsonLight: '#c0392b',
+  deepBlue: '#0a0e1a',
+  navy: '#0d1527',
+  slate: '#1a2340',
+  stone: '#2a3550',
+  parchment: '#f0e6c8',
+  textLight: '#e8dfc0',
+  textMuted: 'rgba(232,223,192,0.6)',
+  shadowGold: 'rgba(201,168,76,0.3)',
+  goodGreen: '#6db86d',
+  goodGreenLight: '#8ddd8d',
+  evilRed: '#e06060',
+  evilRedLight: '#ff8080',
+  lakeBlue: '#6ab0ff',
+  lakeBluLight: '#a0d0ff',
+};
+
+export const fonts = {
+  decorative: 'CinzelDecorative_700Bold',
+  decorativeRegular: 'CinzelDecorative_400Regular',
+  accent: 'Cinzel_600SemiBold',
+  accentRegular: 'Cinzel_400Regular',
+  body: 'EBGaramond_400Regular',
+  bodyMedium: 'EBGaramond_500Medium',
+  bodyItalic: 'EBGaramond_400Regular_Italic',
+};
